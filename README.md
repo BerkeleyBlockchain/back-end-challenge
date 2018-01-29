@@ -1,6 +1,6 @@
 # Blockchain at Berkeley - Back-End Developer Challenges
 ## Introduction
-Welcome to the Blockchain at Berkeley objective task for Back-End Developers. If you are a full-stack developer, you will also want to complete the front-end task, which can be found here:
+Welcome to the Blockchain at Berkeley objective task for Back-End Developers. If you are a full-stack developer, you will also want to complete the front-end task, which can be found here: https://github.com/BerkeleyBlockchain/front-end-challenge
 
 By completing (or attempting) both tasks, you get bonus points which can greatly help you in the process, especially if you felt you didn't do well on our quiz.
 
